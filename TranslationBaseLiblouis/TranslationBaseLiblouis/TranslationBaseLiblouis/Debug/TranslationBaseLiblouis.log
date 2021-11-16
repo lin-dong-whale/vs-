@@ -1,0 +1,142 @@
+﻿  TranslateBaseOnTable.cpp
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(127,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(134,1): warning C4305: “初始化”: 从“int”到“u16”截断
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(127,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(142,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(155,1): warning C4305: “初始化”: 从“int”到“u16”截断
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(142,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(169,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(256,1): warning C4305: “初始化”: 从“int”到“u16”截断
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(169,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(212,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(212,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(215,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(215,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(217,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(217,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(219,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(219,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(221,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(221,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(224,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(224,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(226,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(226,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(228,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(228,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(230,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(230,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(232,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(232,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(234,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(234,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(236,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(236,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(238,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(238,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(240,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(240,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(242,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(242,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(244,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(244,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(246,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(246,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(248,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(248,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(250,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(250,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(252,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(252,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(254,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(254,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(270,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(355,1): warning C4305: “初始化”: 从“int”到“u16”截断
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(270,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(312,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(312,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(314,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(314,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(316,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(316,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(318,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(318,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(320,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(320,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(322,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(322,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(324,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(324,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(326,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(326,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(328,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(328,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(330,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(330,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(332,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(332,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(334,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(334,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(336,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(336,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(338,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(338,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(340,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(340,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(342,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(342,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(344,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(344,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(346,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(346,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(348,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(348,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(350,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(350,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(352,2): warning C4838: 从“int”转换到“u16”需要收缩转换
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(352,2): warning C4309: “初始化”: 截断常量值
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(554,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(563,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(577,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(587,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(601,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(649,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(653,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(654,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(657,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(658,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(659,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(671,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(683,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(693,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(704,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(714,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(723,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(733,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(740,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(741,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(748,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(749,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(757,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(761,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(769,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(770,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(925,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1037,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1047,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1057,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1068,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1078,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1088,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1098,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1108,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1118,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1141,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1174,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1175,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1207,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1252,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1296,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1340,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslationBaseLiblouis\TranslateBaseOnTable.cpp(1507,20): warning C4018: “<”: 有符号/无符号不匹配
+  TranslationBaseLiblouis.vcxproj -> D:\LD\vc-c\TranslationBaseLiblouis\TranslationBaseLiblouis\Debug\TranslationBaseLiblouis.exe
