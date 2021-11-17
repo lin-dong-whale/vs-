@@ -44,7 +44,7 @@ int main()
 	//MergeSortTest();
 	//GetAlwaysAndWrite();//编译1-9个的通用翻译表
 	//EnglisfGrade1();
-	int InPutlen = 21;
+	int InPutlen = 30;
 	int Unicodelen = 0;
 	int Dotlen = 0;
 	int mode = 1;
@@ -64,7 +64,7 @@ int main()
 	}
 
 
-	u8 InPut[INPUTSIZE] = "于是看到了不对得地方是他的";
+	u8 InPut[INPUTSIZE] = "于是看到了不aaa对得地方是他的";
 	u16 DevideUnicodeOutput[UNICODESIZE * 2] = {0x00};
 	char PointOut[POINTSIZE] = { '\0' };
 

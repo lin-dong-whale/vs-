@@ -1425,8 +1425,12 @@ int TranslateBaseOnTable(u8 InPut[], int InPutlen,int mode, u16 DevideUnicodeOut
 
 	for (int c = 0; c < 10; c++)printf("UnicodeInput[%d]=%x\n", c, UnicodeInput[c]);
 	SetTableInformation(mode);
-	for (i = 0; UnicodeInput[i] != 0x00&&i<InPutlen; i++) {//###
-		isch = isChCharacter(UnicodeInput[i]);
+
+	DevideString(DevideUnicodeOutput, UnicodeInput, InPutlen);
+	for (i = 0; i< InPutlen*2; i++) { printf("devide out:DevideUnicodeOutput[%d]=%x\n", i, DevideUnicodeOutput[i]); }
+
+	for (i = 0; DevideUnicodeOutput[i] != 0x00&&i<UNICODESIZE*2; i++) {//###
+		isch = isChCharacter(DevideUnicodeOutput[i]);
 		if (currentlanguage == 0) { 
 			changeflag = 0; 
 		}
@@ -1437,31 +1441,18 @@ int TranslateBaseOnTable(u8 InPut[], int InPutlen,int mode, u16 DevideUnicodeOut
 		}
 		
 		if (changeflag == 0) {
-			UnicodeTemp[cout] = UnicodeInput[i];
+			UnicodeTemp[cout] = DevideUnicodeOutput[i];
 			cout++;
 		}
 		else {
 			if (currentlanguage==1) {
 				
-				for (int c = 0; c < 10; c++)printf("UnicodeTemp[%d]=%x\n", c,UnicodeTemp[c]);
-				cout=DevideString(DevideUicodeTemp, UnicodeTemp, cout)+cout;
-
-				HanZiTranslate(DevideUicodeTemp, PointOut,cout);
-				for (int k = 0; DevideUicodeTemp[k] != 0x00&&k<InPutlen*2; k++) {//###
-					DevideUnicodeOutput[fencinum] = DevideUicodeTemp[k];
-					DevideUicodeTemp[k]=0x00;
-					fencinum++;
-				}
+				HanZiTranslate(UnicodeTemp, PointOut,cout);
 				
 				cout = 0;
 				
 			}
 			else {
-				
-				for (int k = 0; UnicodeTemp[k] != 0x00&&k<InPutlen; k++) {//###
-					DevideUnicodeOutput[fencinum] = UnicodeTemp[k];
-					fencinum++;
-				}
 				
 				EnglisfGrade1(UnicodeTemp, PointOut);
 				
@@ -1478,26 +1469,16 @@ int TranslateBaseOnTable(u8 InPut[], int InPutlen,int mode, u16 DevideUnicodeOut
 	if (currentlanguage == 1) {
 		
 		for (int c = 0; c < 10; c++)printf("UnicodeTemp[%d]=%x\n", c,UnicodeTemp[c]);
-		
-		cout=cout+DevideString(DevideUicodeTemp, UnicodeTemp, cout);
+
 		for (int c = 0; c < 20; c++)printf("DevideUicodeTemp[%d]=%x\n", c, DevideUicodeTemp[c]);
 		
 
-		HanZiTranslate(DevideUicodeTemp, PointOut,cout);
-		
-		for (int k = 0; DevideUicodeTemp[k] != 0x00 && k < InPutlen * 2; k++) {//###
-			DevideUnicodeOutput[fencinum] = DevideUicodeTemp[k];
-			fencinum++;
-		}
+		HanZiTranslate(UnicodeTemp, PointOut,cout);
 		
 		
 	}
 	else {
 		
-		for (int k = 0; UnicodeTemp[k] != 0x00&&k<InPutlen; k++) {//###
-			DevideUnicodeOutput[fencinum] = UnicodeTemp[k];
-			fencinum++;
-		}
 		EnglisfGrade1(UnicodeTemp, PointOut);
 	}
 
